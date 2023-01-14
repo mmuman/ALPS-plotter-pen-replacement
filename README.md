@@ -10,7 +10,7 @@ License isn't chosen yet.
 
 ## User manual
 
-TODO: User manual is (soon) available in [English](manual_en.md), [French](manual_fr.md).
+The user manual is available in [English](manual_en.md), [French](manual_fr.md).
 
 ## Oredering pre-made kits
 

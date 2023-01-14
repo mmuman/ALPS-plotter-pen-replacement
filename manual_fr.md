@@ -1,9 +1,10 @@
 ---
-title:  'Guide utilisateur Kit de stylets de remplacement pour plotteur ALPS'
+title:  'Manuel du Kit stylets de remplacement pour traceur ALPS'
 subtitle: "Pour MCP-40 et autres imprimantes compatibles"
 author:
 - François Revol
-description: Manuel utilisateur du kit de stylets de remplacement pour plotteur ALPS pour MCP-40 et autres
+description: User manual of the ALPS plotter pen replacements kit for MCP-40 & others
+subject: User manual of the ALPS plotter pen replacements kit for MCP-40 & others
 papersize: A4
 documentclass: article
 # try to fit a single page
@@ -13,7 +14,7 @@ lang: fr-FR
 
 # Description
 
-Ce kit imprimé en 3D permet d'utiliser un stylo ou des recharges *Bic 4 couleurs* comme stylets pour les imprimantes types MCP-40, basées sur une mécanique ALPS.
+Ce kit imprimé en 3D permet d'utiliser un stylo ou des recharges *Bic® 4 couleurs* comme stylets pour les imprimantes type MCP-40, basées sur une mécanique ALPS.
 
 Il se compose de quatre embouts colorés, de deux embouts blancs supplémentaires (en cas de casse ou pour d'autres couleurs), d'un outil de découpe, et d'un trombone déplié pour extraire le tube d'encre lorsqu'il est vide.
 
@@ -23,21 +24,40 @@ Il se compose de quatre embouts colorés, de deux embouts blancs supplémentaire
 
 - un cutter ou exoknife ou autre lame fine
 - un pistolet à colle chaude pour sceller le reste du tube d'encre
-- des gants latex ou vinyl ou un bon savon pour les coulures d'encre
+- des gants ou un bon savon pour les coulures d'encre
+- essuie-tout ou mouchoirs en papier
 
-## Extraction d'un tube vide
+## Extraction d'un tube vide de l'embout
 
-Lorsque le tube installé est vide, utilisez le trombone fourni pour le pousser vers l'extérieur en faisant levier par la fente sur le côté.
+Lorsque le tube d'encre installé est vide, utilisez le trombone fourni pour le pousser vers l'extérieur en faisant levier par la fente sur le côté.
+
+*Note&nbsp;: Il est possible également d'utiliser une pince pour tirer sur la partie métallique du tube, mais vous risquez de la détacher du tube à encre et d'en faire couler beaucoup.*
+
+## Récupération des tubes sur un stylo 4 couleurs complet
+
+Dévissez la partie basse (généralement bleue) d'un Bic 4 couleurs, puis tirez sur les tubes transparents pour les détacher du sommet du stylo.
 
 ## Installation depuis un tube complet
 
-TODO
+Insérez le tube à encre par l'encoche sur le côté de l'outil de découpe, bille en tête. La bille du stylo doit toucher le fond de la gouttière. À l'aide d'un outil tranchant, coupez le tube à encre par la fente prévue à cet effet.
+
+*Note&nbsp;: La fente de découpe étant plus large que la précision requise pour l'assemblage (0,1mm), il est conseillé de faire les premiers essais en alignant la lame sur le bord extérieur de la fente, puis de démonter et recouper plus court si l'assemblage est trop grand. Si le tube est trop court il risque de rentrer trop profondément dans l'embout, malgré la friction, et donner un stylet trop court.*
+
+Retirez la partie du tube qui dépasse, tamponnez le côté coupé avec un essuie-tout pour enlever l'encre du bord, et scellez-le à l'aide d'un pistolet à colle chaude, du côté coupé seulement. Une goûte de la taille d'une perle suffit, l'important étant d'avoir un bouchon hermétique. Ne pas sceller l'autre côté du tube sous peine de faire fuir l'encre par l'autre bout.
+
+Retirez la partie utile de l'outil de découpe, le morceau de tube avec la bille, et tamponnez le côté coupé avec un essuie-tout pour enlever suffisamment d'encre pour qu'elle ne coule pas, environ un millimètre, en essuyant bien l'extérieur du tube.
+
+Poussez le tube ainsi nettoyé dans l'embout avec la bille vers l'extérieur, progressivement. Lorsque la longueur de l'ensemble se rapproche de la taille de l'emplacement de test de l'outil de découpe, placez-le la bille en premier à l'intérieur, et poussez encore pour l'ajuster, jusqu'à pouvoir l'insérer correctement dans l'emplacement de test. S'il ne rentre pas, retirez le tube de l'embout (cf. plus haut), puis recommencez l'installation en recoupant plus court.
 
 ## Recharge à partir d'un reste de tube découpé
 
-(non testé) Il est possible de réutiliser la pointe du stylo et le reste du tube non utilisé comme recharge plusieurs fois.
+(**non testé**) Il est possible de réutiliser la pointe du stylo et le reste du tube non utilisé comme recharge plusieurs fois.
 
-TODO
+Retirez la partie métallique du tube vide après démontage.
+
+Enlevez avec soin le bouchon de colle chaude sur le tube restant non utilisé, et recoupez au besoin le bout du tube pour avoir l'encre à raz-bord.
+
+Enfoncez la partie métallique au bout du tube, et essuyez l'excès d'encre autour.
 
 Continuez en suivant la procédure pour un tube complet.
 
