@@ -6,7 +6,7 @@ Designed in OpenSCAD.
 
 License isn't chosen yet.
 
-![Four replacement pens assembled along with the cutting jig.](ORIC_MCP40_DSCN2293.jpg)
+![Four replacement pens assembled along with the cutting jig.](images/ORIC_MCP40_DSCN2293.jpg)
 
 ## User manual
 
