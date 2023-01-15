@@ -20,6 +20,8 @@ Il se compose de quatre embouts colorés, de deux embouts blancs supplémentaire
 
 # Utilisation
 
+![](images/alps_plotter_pen_manual_steps_small.png)
+
 ## Prérequis
 
 - un cutter ou exoknife ou autre lame fine
@@ -39,15 +41,15 @@ Dévissez la partie basse (généralement bleue) d'un Bic 4 couleurs, puis tirez
 
 ## Installation depuis un tube complet
 
-Insérez le tube à encre par l'encoche sur le côté de l'outil de découpe, bille en tête. La bille du stylo doit toucher le fond de la gouttière. À l'aide d'un outil tranchant, coupez le tube à encre par la fente prévue à cet effet.
+①&nbsp;Insérez le tube à encre par l'encoche sur le côté de l'outil de découpe, bille en tête. La bille du stylo doit toucher le fond de la gouttière. ②&nbsp;À l'aide d'un outil tranchant, coupez le tube à encre par la fente prévue à cet effet.
 
-*Note&nbsp;: La fente de découpe étant plus large que la précision requise pour l'assemblage (0,1mm), il est conseillé de faire les premiers essais en alignant la lame sur le bord extérieur de la fente, puis de démonter et recouper plus court si l'assemblage est trop grand. Si le tube est trop court il risque de rentrer trop profondément dans l'embout, malgré la friction, et donner un stylet trop court.*
+*Note&nbsp;: La fente de découpe étant plus large que la précision requise pour l'assemblage (0,1mm), il est conseillé de faire les premiers essais en alignant la lame sur le bord extérieur de la fente, puis de démonter et recouper plus court si l'assemblage est trop grand. Si le tube est trop court il risque de rentrer trop profondément dans l'embout, malgré la friction, et donner un stylet qui ne marque pas. À l'inverse, s'il est trop long il risque de bloquer le mécanisme et endommager l'imprimante.*
 
-Retirez la partie du tube qui dépasse, tamponnez le côté coupé avec un essuie-tout pour enlever l'encre du bord, et scellez-le à l'aide d'un pistolet à colle chaude, du côté coupé seulement. Une goûte de la taille d'une perle suffit, l'important étant d'avoir un bouchon hermétique. Ne pas sceller l'autre côté du tube sous peine de faire fuir l'encre par l'autre bout.
+③&nbsp;Retirez la partie du tube qui dépasse, tamponnez le côté coupé avec un essuie-tout pour enlever l'encre du bord. ④&nbsp;Scellez-le à l'aide d'un pistolet à colle chaude, du côté coupé seulement. Une goutte de la taille d'une perle suffit, l'important étant d'avoir un bouchon hermétique. Ne pas sceller l'autre côté du tube sous peine de faire fuir l'encre par l'autre bout.
 
-Retirez la partie utile de l'outil de découpe, le morceau de tube avec la bille, et tamponnez le côté coupé avec un essuie-tout pour enlever suffisamment d'encre pour qu'elle ne coule pas, environ un millimètre, en essuyant bien l'extérieur du tube.
+⑤&nbsp;Retirez la partie utile de l'outil de découpe, le morceau de tube avec la bille, et tamponnez le côté coupé avec un essuie-tout pour enlever suffisamment d'encre pour qu'elle ne coule pas, environ un millimètre, en essuyant bien l'extérieur du tube.
 
-Poussez le tube ainsi nettoyé dans l'embout avec la bille vers l'extérieur, progressivement. Lorsque la longueur de l'ensemble se rapproche de la taille de l'emplacement de test de l'outil de découpe, placez-le la bille en premier à l'intérieur, et poussez encore pour l'ajuster, jusqu'à pouvoir l'insérer correctement dans l'emplacement de test. S'il ne rentre pas, retirez le tube de l'embout (cf. plus haut), puis recommencez l'installation en recoupant plus court.
+⑥&nbsp;Poussez le tube ainsi nettoyé dans l'embout avec la bille vers l'extérieur, progressivement. ⑦&nbsp;Lorsque la longueur de l'ensemble se rapproche de la taille de l'emplacement de test de l'outil de découpe, placez-le la bille en premier à l'intérieur, et poussez encore pour l'ajuster, jusqu'à pouvoir l'insérer correctement dans l'emplacement de test. ⑧&nbsp;Il doit pouvoir tourner librement sur lui-même, sans pouvoir se déplacer dans le sens de la longueur. S'il ne rentre pas, retirez le tube de l'embout (cf. plus haut), puis recommencez l'installation en recoupant plus court.
 
 ## Recharge à partir d'un reste de tube découpé
 

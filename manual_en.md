@@ -19,6 +19,8 @@ It compries four color holders, two extra holders (in case one breaks, or for ot
 
 # Usage
 
+![](images/alps_plotter_pen_manual_steps_small.png)
+
 ## Prerequisites
 
 - cutter or exoknife or other sharp blade
@@ -38,15 +40,15 @@ Unscrew the bottom part (usually blue), and pull on the transparent ink tubes to
 
 ## Setup from complete ink tube
 
-Insert the ink tube by the side hole on the cutting jig, ball first. The ball must touch the other end of the gutter. Using a sharp blade, cut the ink tube at the slit.
+①&nbsp;Insert the ink tube by the side hole on the cutting jig, ball first. The ball must touch the other end of the gutter. ②&nbsp;Using a sharp blade, cut the ink tube at the slit.
 
-*Note: The slit being larger than the required precision for the assembly (1mm), it is advised to do the first attempts aligning your blade on the exterior side on the slit, and extract the ink tube and re-cut it if too long. If the ink tube is cut too short, it risks going too far into the holder regardless the friction, and result in a too short stylus.*
+*Note: The slit being larger than the required precision for the assembly (1mm), it is advised to do the first attempts aligning your blade on the exterior side on the slit, and extract the ink tube and re-cut it if too long. If the ink tube is cut too short, it risks going too far into the holder regardless the friction, and not print at all, and result in a too short stylus. But if the assembly is too long, it risks blocking the mechanism and damaging the printer.*
 
-Remove the protruding part of the tube, wipe off the ink from the border of the tube, and seal the cut end of the tube with the hot glue gun, only this side. A pearl-sized drop is enough, it is only required to have an air-tight seal. Do not seal the other end of the tube, doing so would risk leaking the ink from the other side.
+③&nbsp;Remove the protruding part of the tube, wipe off the ink from the border of the tube. ④&nbsp;Now seal the cut end of the tube with the hot glue gun, only this side. A pearl-sized drop is enough, it is only required to have an air-tight seal. Do not seal the other end of the tube, doing so would risk leaking the ink from the other side.
 
-Remove the useful part from the cutting jig, the tube part with the ball end, and wipe off enough ink from the border of the tube so it doesn't leak, about a millimeter, and wipe the sides of the tube as well.
+⑤&nbsp;Remove the useful part from the cutting jig, the tube part with the ball end, and wipe off enough ink from the border of the tube so it doesn't leak, about a millimeter, and wipe the sides of the tube as well.
 
-Progressively push the cleaned tube inside the holder, the ball point on the outside. When the total length of the assembly approaches the size of the test spot on the cutting jig, put it inside, with the ball first, and push again to adjust it, until it fits correctly. If it doesn't fit, remove the ink tube from the holder (see above), and retry assembly after cutting the tube shorter.
+⑥&nbsp;Progressively push the cleaned tube inside the holder, the ball point on the outside. ⑦&nbsp;When the total length of the assembly approaches the size of the test spot on the cutting jig, put it inside, with the ball first, and push again to adjust it, until it fits correctly. ⑧&nbsp;It must be able to turn around inside, but not move along the axis. If it doesn't fit, remove the ink tube from the holder (see above), and retry assembly after cutting the tube shorter.
 
 ## Refill from cut ink tube leftover
 
