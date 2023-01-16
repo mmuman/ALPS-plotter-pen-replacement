@@ -1,0 +1,8 @@
+% Required to handle the Unicode circled or parenthesized characters
+% cf. https://tex.stackexchange.com/questions/568030/pandoc-codeblock-containing-unicode-characters
+\directlua{luaotfload.add_fallback(
+			"myfallback",
+			{"VL Gothic:mode=harf;"}
+			)}
+\setmainfont[RawFeature={fallback=myfallback}]{LatinModernRoman}
+\setmonofont[RawFeature={fallback=myfallback}]{LatinModernMono}
