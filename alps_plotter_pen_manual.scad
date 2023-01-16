@@ -44,7 +44,7 @@ if (STEP == 0) {
                 include <alps_plotter_pen.scad>;
             }
             translate([0,0,0]) balltip();
-            translate([0,0,8]) inktube(length=12.3);
+            translate([0,0,8]) inktube(length=12.3, ink=ink_colors[i], level=93);
         };
     }
 }
@@ -97,7 +97,8 @@ if (STEP == 3) {
     translate([4,0,0]) {
         rotate([0,5,2]) {
             color("White") cube([1, 20, 20]);
-            translate([0,6,4]) color("black", 0.7) minkowski() {
+            // naive ink stain
+            translate([0,6,4]) color("blue", 0.7) minkowski() {
                 cube([1.2, 3, 2]);
                 sphere(0.5);
             }
@@ -136,7 +137,8 @@ if (STEP == 5) {
     translate([32,0,0]) {
         rotate([0,5,2]) {
             color("White") cube([1, 10, 10]);
-            translate([0,6,4]) color("grey", 0.7) minkowski() {
+            // naive ink stain
+            translate([0,6,4]) color("darkblue", 0.7) minkowski() {
                 cube([1.2, 3, 2]);
                 sphere(0.5);
             }

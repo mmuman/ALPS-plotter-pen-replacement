@@ -38,7 +38,7 @@ $(DOCS_IMAGES): alps_plotter_pen_manual.scad
 alps_plotter_pen_manual_steps.png: $(DOCS_IMAGES)
 	montage -verbose $(wordlist 2,100,$^) -geometry '2000x1000+50+100' -font "VL-Gothic-Regular" -pointsize 200 $@
 
-alps_plotter_pen_manual_steps_small.png: $(DOCS_IMAGES)
+images/alps_plotter_pen_manual_steps_small.png: $(DOCS_IMAGES)
 	montage -verbose $(wordlist 2,100,$^) -geometry '200x100+5+10' -font "VL-Gothic-Regular" -pointsize 20 $@
 
 
